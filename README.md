@@ -14,15 +14,11 @@ This is a simple Todo List application built using ReactJS that utilizes the bro
 
 1. Clone this repository to your local machine
     ```bash
-    git clone https://github.com/your-username/react-todo-list.git
+    https://github.com/Priyanshu-704/Todo-app.git
     ```
 
-2. Navigate to the project directory
-    ```bash
-    cd react-todo-list
-    ```
 
-3. Install dependencies
+2. Install dependencies
     ```bash
     npm install
     ```
@@ -30,7 +26,7 @@ This is a simple Todo List application built using ReactJS that utilizes the bro
 
 ## Usage
 
-4. Start the development server
+3. Start the development server
     ```bash
     npm start
     ```
